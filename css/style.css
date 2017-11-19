@@ -1,0 +1,13 @@
+.header{
+	z-index: 17;
+    min-height: 127px;
+    border-color: #000000;
+    background-color: #272B36;
+    position: fixed;
+    top: 0px;
+}
+.browser_width > * {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
